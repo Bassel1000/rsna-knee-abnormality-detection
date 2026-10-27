@@ -32,7 +32,6 @@ Team Kangaroo treated the competition as a **labeling** problem: LLM agents prod
 ```
 .
 ├── README.md
-├── PROGRESS.md
 ├── .gitignore
 ├── rsna-knee-abnormality-detection.ipynb   # final Kaggle notebook (v21g)
 ├── user_nb/
